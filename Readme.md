@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [MainWindow.xaml](./CS/DXGauges_ShowTooltips/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/DXGauges_ShowTooltips/MainWindow.xaml.vb))
+* [MainWindow.xaml](./CS/DXGauges_ShowTooltips/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/DXGauges_ShowTooltips/MainWindow.xaml))
 * [MainWindow.xaml.cs](./CS/DXGauges_ShowTooltips/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/DXGauges_ShowTooltips/MainWindow.xaml.vb))
 <!-- default file list end -->
 # How to display tooltips for gauge elements
